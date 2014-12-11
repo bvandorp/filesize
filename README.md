@@ -9,4 +9,7 @@ kb - display as kb<br/>
 mb - displays as mb<br/>
 gb - displays as gb
 
-usage: [[+filetv:filesize=`bytes|kb|mb|gb`]]
+##usage: 
+```
+[[+filetv:filesize=`bytes|kb|mb|gb`]]
+```
